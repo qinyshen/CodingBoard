@@ -32,7 +32,7 @@
 # .idea/*.iml
 # .idea/modules
 
-.idea
+.idea/
 *.iml
 
 # CMake
