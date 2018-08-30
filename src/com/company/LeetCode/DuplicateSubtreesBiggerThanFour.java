@@ -1,8 +1,6 @@
 package com.company.LeetCode;
 
-import java.util.HashMap;
 import java.util.HashSet;
-import java.util.Map;
 
 public class DuplicateSubtreesBiggerThanFour {
 
@@ -13,7 +11,7 @@ public class DuplicateSubtreesBiggerThanFour {
         TreeNode(int x) { val = x; }
     }
 
-    boolean find = false;
+    private boolean find = false;
 
 
 
